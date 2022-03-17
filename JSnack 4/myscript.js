@@ -13,7 +13,7 @@ for (let index = 0; index < array2.length; index++) {
     if (array1.length != array2.length) {
         array1.push("item");
     }else{
-        break;
+       // break; conoscenza proibita
     }
 
 }
